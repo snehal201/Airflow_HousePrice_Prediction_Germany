@@ -1,0 +1,4 @@
+"apache-airflow[celery]==2.10.4" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.10.4/constraints-3.8.txt"
+pandas
+matplotlib
+pip install seaborn
