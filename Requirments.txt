@@ -1,0 +1,5 @@
+apache-airflow[celery]==2.10.4
+pandas
+matplotlib
+seaborn
+openpyxl

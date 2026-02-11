@@ -1,0 +1,46 @@
+
+    Rental Property Analysis Report
+    ===============================
+
+    1. Top 5 ROI Areas:
+    city
+MÃÂ¼nchen                   86.372632
+Stuttgart                    85.649655
+MÃÂ¼nchen_Kreis             85.150030
+Starnberg_Kreis              84.646120
+Freiburg_im_Breisgau         84.288606
+FÃÂ¼rstenfeldbruck_Kreis    84.202563
+Frankfurt_am_Main            84.006255
+Dachau_Kreis                 83.980859
+Lindau_Bodensee_Kreis        83.891598
+Miesbach_Kreis               83.870280
+Name: ROI, dtype: float64
+    2. Most Common Rental Price Range:
+    501-1000
+
+    3. Top 10 ZIP Codes with Highest Rent Increases:
+    geo_plz
+67434    935.826796
+72644     77.534437
+91747     10.666667
+8382       7.800000
+22927      7.352237
+69180      6.646914
+44629      5.360874
+4017       4.712000
+68115      4.703704
+14667      4.608866
+Name: totalRent, dtype: float64
+
+    4. Most Common Heating Type:
+    central_heating
+
+    5. Average Rent Per Sqft in Top 5 Cities:
+    city
+Berlin       14.215181
+Chemnitz      5.152590
+Dresden       8.699756
+Leipzig       7.813273
+Magdeburg     6.343493
+Name: rent_per_sqft, dtype: float64
+    
